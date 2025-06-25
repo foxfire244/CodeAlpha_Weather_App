@@ -1,4 +1,3 @@
-
 const apiKey = "1c2c31febf95eae2902c9b898fd609e2";
 
 function getWeather() {
